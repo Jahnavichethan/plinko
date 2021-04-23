@@ -12,7 +12,7 @@ class Particle {
     }
     display() {
 
-        var pos = this.body.position;
+        var pos = this.body.position;a
         var angle = this.body.angle;
 
         push();
